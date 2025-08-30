@@ -28,7 +28,6 @@ Hiện tại, tôi là thành viên nhóm phát triển tại [DTA Research](htt
 
 #### [LMS - Hệ thống quản lý học tập thông minh](https://lms.hoctiep.com/login)
 - **Link truy cập:** https://lms.hoctiep.com/login
-- **Repo:** [DTAResearch/lms-learn-with-ai](https://github.com/DTAResearch/lms-learn-with-ai)
 - **Mô tả:** Nền tảng LMS hỗ trợ học trực tuyến, kiểm tra, tự động hóa chấm điểm và cá nhân hóa trải nghiệm học tập với AI.
 - **Vai trò:**  
   - Phát triển và tối ưu giao diện người dùng (UI/UX)
