@@ -8,7 +8,7 @@
 
 ## 🚀 Giới thiệu bản thân
 
-Tôi là **Front-end Web Developer** đam mê xây dựng giao diện hiện đại, tối ưu trải nghiệm người dùng và hiệu suất cho các ứng dụng web.  
+Tôi là **Front-end Web Developer** đam mê xây dựng giao diện hiện đại, tối ưu trải nghiệm người dùng và tăng hiệu suất cho các ứng dụng web.  
 Hiện tại, tôi là thành viên nhóm phát triển tại [DTA Research](https://github.com/DTAResearch) và đã thực hiện nhiều dự án cá nhân lẫn nhóm, tập trung vào UI/UX, realtime, và các giải pháp công nghệ giáo dục.
 
 ---
